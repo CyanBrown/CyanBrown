@@ -1,8 +1,4 @@
-# My name is Cyan Brown and here is what I've been doing...
-
-## Overview
-
-I am nearly entirely self taught, my only CS classes have been introductory.
+# Cyan Brown
 
 ### Language Experiences
 
@@ -10,18 +6,19 @@ I am nearly entirely self taught, my only CS classes have been introductory.
 | ---------|---------------|
 | Python | Advanced |
 | C# | Intermediate |
+| C/C++ | Intermediate |
 | Java | Intermediate |
 | Golang | Intermediate |
 | Javascript | Intermediate |
 | SQL | Intermediate |
 | HTML/CSS | Novice |
 
-A lot of my personal projects are written in Python, but there is a lot of work I have done professionally in languages besides that.
+While most of my personal projects are written in Python, I have also done a lot of work professionally in other languages.
 
 
 ## Personal Projects
 
-These are not all the projects I have done, just some that have stood out over the past few years. My abilities have evolved since many of these projects, but they are still interesting.
+These are not all my projects, just some that have stood out over the past few years. My abilities have evolved since many of these projects, but they are still interesting.
 
 ### [Physics Calculator](https://github.com/CyanBrown/PhysicsCalculator)
 
@@ -43,7 +40,7 @@ These are not all the projects I have done, just some that have stood out over t
 - Sends email responses based on results of final survey
 
 ### Global Language Institute
-*Although the website was completed to their design, but they opted for a Google Sites so it is not actively in use*
+*Although the website was completed to their design, they opted for Google Sites so it is not actively in use*
 
 - Website for the Global Language Institute non-profit
 - Written using React JS
